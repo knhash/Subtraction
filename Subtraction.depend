@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1391256859 source:c:\users\administrator\documents\codeblocks\subtraction\main.cpp
+	<iostream>
+	<fstream.>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
